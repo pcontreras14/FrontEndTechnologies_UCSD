@@ -1,0 +1,17 @@
+{
+  "name": "ffs-week5",
+  "authors": [
+    "pcontreras14 <56200978+pcontreras14@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
